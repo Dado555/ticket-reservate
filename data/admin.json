@@ -1,0 +1,4 @@
+{
+	"admin": {"username":"admin","password":"admin","firstName":"Mica","lastName":"Fica","gender":"MALE","birthDate":567995034322},
+    "admin2": {"username":"admin2","password":"admin2","firstName":"Milance","lastName":"Kafance","gender":"MALE","birthDate":567995034322}
+}

@@ -1,0 +1,19 @@
+{
+  "0": {
+    "id": 0,
+    "manifestationID": 2,
+    "username": "Nedeljko99",
+    "text": "Klika gas, respect za bracu!",
+    "rating": 5,
+    "status": "ACCEPTED",
+    "deleted": false
+  },
+  "1": {
+    "manifestationID": 2,
+    "username": "pera",
+    "text": "Kakvi su ovo narkomani bre!",
+    "rating": 5,
+    "status": "INITIAL",
+    "deleted": false
+  }
+}

@@ -1,0 +1,1118 @@
+{
+  "0": {
+    "id": 0,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "pera",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "1": {
+    "id": 1,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "pera",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "2": {
+    "id": 2,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "pera",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "3": {
+    "id": 3,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "pera",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "4": {
+    "id": 4,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "5": {
+    "id": 5,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "6": {
+    "id": 6,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "7": {
+    "id": 7,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "8": {
+    "id": 8,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "9": {
+    "id": 9,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "10": {
+    "id": 10,
+    "manifestationID": 2,
+    "price": 1120.0,
+    "customerUsername": "Nedeljko99",
+    "status": "CANCELED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "11": {
+    "id": 11,
+    "manifestationID": 2,
+    "price": 1120.0,
+    "customerUsername": "Nedeljko99",
+    "status": "CANCELED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "12": {
+    "id": 12,
+    "manifestationID": 2,
+    "price": 1120.0,
+    "customerUsername": "Nedeljko99",
+    "status": "CANCELED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "13": {
+    "id": 13,
+    "manifestationID": 2,
+    "price": 1120.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "14": {
+    "id": 14,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "15": {
+    "id": 15,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "16": {
+    "id": 16,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "17": {
+    "id": 17,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "18": {
+    "id": 18,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "19": {
+    "id": 19,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "20": {
+    "id": 20,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "21": {
+    "id": 21,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "22": {
+    "id": 22,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "23": {
+    "id": 23,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "24": {
+    "id": 24,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "25": {
+    "id": 25,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "26": {
+    "id": 26,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "27": {
+    "id": 27,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "28": {
+    "id": 28,
+    "manifestationID": 1,
+    "price": 160.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "29": {
+    "id": 29,
+    "manifestationID": 12,
+    "price": 1200.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "FAN_PIT",
+    "deleted": false
+  },
+  "30": {
+    "id": 30,
+    "manifestationID": 12,
+    "price": 1200.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "FAN_PIT",
+    "deleted": false
+  },
+  "31": {
+    "id": 31,
+    "manifestationID": 12,
+    "price": 1200.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "FAN_PIT",
+    "deleted": false
+  },
+  "32": {
+    "id": 32,
+    "manifestationID": 12,
+    "price": 1200.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "FAN_PIT",
+    "deleted": false
+  },
+  "33": {
+    "id": 33,
+    "manifestationID": 12,
+    "price": 1200.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "FAN_PIT",
+    "deleted": false
+  },
+  "34": {
+    "id": 34,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "35": {
+    "id": 35,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "36": {
+    "id": 36,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "37": {
+    "id": 37,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "38": {
+    "id": 38,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "39": {
+    "id": 39,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "40": {
+    "id": 40,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "41": {
+    "id": 41,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "42": {
+    "id": 42,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "43": {
+    "id": 43,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "44": {
+    "id": 44,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "45": {
+    "id": 45,
+    "manifestationID": 12,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "46": {
+    "id": 46,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "47": {
+    "id": 47,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "48": {
+    "id": 48,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "49": {
+    "id": 49,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "50": {
+    "id": 50,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "51": {
+    "id": 51,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "52": {
+    "id": 52,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "53": {
+    "id": 53,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "54": {
+    "id": 54,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "55": {
+    "id": 55,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "56": {
+    "id": 56,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "57": {
+    "id": 57,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "58": {
+    "id": 58,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "59": {
+    "id": 59,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "60": {
+    "id": 60,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "61": {
+    "id": 61,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "62": {
+    "id": 62,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "63": {
+    "id": 63,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "64": {
+    "id": 64,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "65": {
+    "id": 65,
+    "manifestationID": 2,
+    "price": 280.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "66": {
+    "id": 66,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "67": {
+    "id": 67,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "68": {
+    "id": 68,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "69": {
+    "id": 69,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "70": {
+    "id": 70,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "71": {
+    "id": 71,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "72": {
+    "id": 72,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "73": {
+    "id": 73,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "74": {
+    "id": 74,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "75": {
+    "id": 75,
+    "manifestationID": 3,
+    "price": 210.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "76": {
+    "id": 76,
+    "manifestationID": 12,
+    "price": 800.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "77": {
+    "id": 77,
+    "manifestationID": 12,
+    "price": 800.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "78": {
+    "id": 78,
+    "manifestationID": 12,
+    "price": 800.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "79": {
+    "id": 79,
+    "manifestationID": 12,
+    "price": 800.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "80": {
+    "id": 80,
+    "manifestationID": 12,
+    "price": 800.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "81": {
+    "id": 81,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "82": {
+    "id": 82,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "83": {
+    "id": 83,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "84": {
+    "id": 84,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "85": {
+    "id": 85,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "86": {
+    "id": 86,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "87": {
+    "id": 87,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "88": {
+    "id": 88,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "89": {
+    "id": 89,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "90": {
+    "id": 90,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "91": {
+    "id": 91,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "92": {
+    "id": 92,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "93": {
+    "id": 93,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "94": {
+    "id": 94,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "95": {
+    "id": 95,
+    "manifestationID": 6,
+    "price": 150.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "96": {
+    "id": 96,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "97": {
+    "id": 97,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "98": {
+    "id": 98,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "99": {
+    "id": 99,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "100": {
+    "id": 100,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "101": {
+    "id": 101,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "102": {
+    "id": 102,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "103": {
+    "id": 103,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "104": {
+    "id": 104,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "105": {
+    "id": 105,
+    "manifestationID": 6,
+    "price": 600.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "VIP",
+    "deleted": false
+  },
+  "106": {
+    "id": 106,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "pera",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "107": {
+    "id": 107,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "pera",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "108": {
+    "id": 108,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "pera",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "109": {
+    "id": 109,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "110": {
+    "id": 110,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "111": {
+    "id": 111,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "112": {
+    "id": 112,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "113": {
+    "id": 113,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "114": {
+    "id": 114,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "115": {
+    "id": 115,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "Nedeljko99",
+    "status": "RESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "116": {
+    "id": 116,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "117": {
+    "id": 117,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "118": {
+    "id": 118,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "119": {
+    "id": 119,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "120": {
+    "id": 120,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "121": {
+    "id": 121,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "122": {
+    "id": 122,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  },
+  "123": {
+    "id": 123,
+    "manifestationID": 5,
+    "price": 100.0,
+    "customerUsername": "",
+    "status": "UNRESERVED",
+    "type": "REGULAR",
+    "deleted": false
+  }
+}

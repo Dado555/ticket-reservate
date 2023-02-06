@@ -1,0 +1,357 @@
+{
+  "16": {
+    "id": 16,
+    "title": "Himna generacije",
+    "type": "Concert",
+    "seats": 0,
+    "dateTime": 1614294420000,
+    "priceRegular": 156.0,
+    "status": "INACTIVE",
+    "location": {
+      "longitude": 19.875514846661797,
+      "latitude": 45.25367690078153,
+      "address": "Cajkovskog 8a, Novi Sad, Serbia, 21000"
+    },
+    "ticketIDs": [],
+    "ticketsCount": {
+      "REGULAR": 0,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "dubioza.jpg"
+  },
+  "1": {
+    "id": 1,
+    "title": "Linkin Park",
+    "type": "Concert",
+    "seats": 15,
+    "dateTime": 1614462900000,
+    "priceRegular": 160.0,
+    "status": "ACTIVE",
+    "location": {
+      "longitude": 19.861632,
+      "latitude": 45.253172,
+      "address": "Petrovaradin"
+    },
+    "ticketIDs": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "ticketsCount": {
+      "REGULAR": 15,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "linkin.jpg"
+  },
+  "2": {
+    "id": 2,
+    "title": "Klika",
+    "type": "Concert",
+    "seats": 9,
+    "dateTime": 1612229940000,
+    "priceRegular": 280.0,
+    "status": "ACTIVE",
+    "location": {
+      "longitude": 19.854478775158082,
+      "latitude": 45.25169114460499,
+      "address": "Sonje Marinkovic 17, Novi Sad, Serbia, 21101"
+    },
+    "ticketIDs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "ticketsCount": {
+      "REGULAR": 8,
+      "FAN_PIT": 0,
+      "VIP": 1
+    },
+    "deleted": false,
+    "posterPath": "klika.jpg"
+  },
+  "3": {
+    "id": 3,
+    "title": "Pantera",
+    "type": "Concert",
+    "seats": 10,
+    "dateTime": 1612465200000,
+    "priceRegular": 210.0,
+    "status": "ACTIVE",
+    "location": {
+      "longitude": 19.862414,
+      "latitude": 45.252742,
+      "address": "Petrovaradin"
+    },
+    "ticketIDs": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "ticketsCount": {
+      "REGULAR": 10,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "pantera.jpg"
+  },
+  "4": {
+    "id": 4,
+    "title": "Smrt Djevojka",
+    "type": "Theater",
+    "seats": 0,
+    "dateTime": 1612551600000,
+    "priceRegular": 140.0,
+    "status": "ACTIVE",
+    "location": {
+      "longitude": 19.863637,
+      "latitude": 45.252766,
+      "address": "Petrovaradin"
+    },
+    "ticketIDs": [],
+    "ticketsCount": {
+      "REGULAR": 0,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "pozoriste.jpg"
+  },
+  "5": {
+    "id": 5,
+    "title": "Bajaga",
+    "type": "Concert",
+    "seats": 5,
+    "dateTime": 1612296000000,
+    "priceRegular": 100.0,
+    "status": "ACTIVE",
+    "location": {
+      "longitude": 19.836606,
+      "latitude": 45.265416,
+      "address": "Kisacka 60, Novi Sad 21000"
+    },
+    "ticketIDs": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "ticketsCount": {
+      "REGULAR": 5,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "b.jpg"
+  },
+  "6": {
+    "id": 6,
+    "title": "Juzni Vetar 2",
+    "type": "Movie",
+    "seats": 25,
+    "dateTime": 1612465200000,
+    "priceRegular": 150.0,
+    "status": "ACTIVE",
+    "location": {
+      "longitude": 19.863158,
+      "latitude": 45.251665,
+      "address": "Petrovaradin"
+    },
+    "ticketIDs": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "ticketsCount": {
+      "REGULAR": 15,
+      "FAN_PIT": 0,
+      "VIP": 10
+    },
+    "deleted": false,
+    "posterPath": "juzni.jpg"
+  },
+  "7": {
+    "id": 7,
+    "title": "Dubioza Kolektiv",
+    "type": "Concert",
+    "seats": 0,
+    "dateTime": 1614462900000,
+    "priceRegular": 300.0,
+    "status": "ACTIVE",
+    "location": {
+      "longitude": 19.861744,
+      "latitude": 45.251289,
+      "address": "Petrovaradin"
+    },
+    "ticketIDs": [],
+    "ticketsCount": {
+      "REGULAR": 0,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "dubioza.jpg"
+  },
+  "12": {
+    "id": 12,
+    "title": "Baja Specijalno",
+    "type": "Concert",
+    "seats": 5,
+    "dateTime": 1614462900000,
+    "priceRegular": 800.0,
+    "status": "INACTIVE",
+    "location": {
+      "longitude": 19.842482484158925,
+      "latitude": 45.25241513743924,
+      "address": "Trg mladenaca 6, Novi Sad, Serbia, 21000"
+    },
+    "ticketIDs": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "ticketsCount": {
+      "REGULAR": 5,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "baja.jpg"
+  },
+  "13": {
+    "id": 13,
+    "title": "Geto Corba",
+    "type": "Concert",
+    "seats": 0,
+    "dateTime": 1614462900000,
+    "priceRegular": 100.0,
+    "status": "ACTIVE",
+    "location": {
+      "longitude": 19.836606,
+      "latitude": 45.265416,
+      "address": "Kisacka 60, Novi Sad 21000"
+    },
+    "ticketIDs": [],
+    "ticketsCount": {
+      "REGULAR": 0,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "corba.jpg"
+  },
+  "15": {
+    "id": 15,
+    "title": "Plavi safir",
+    "type": "Concert",
+    "seats": 0,
+    "dateTime": 1614462900000,
+    "priceRegular": 123.0,
+    "status": "INACTIVE",
+    "location": {
+      "longitude": 19.876132193109356,
+      "latitude": 45.252478899846324,
+      "address": "Reljkoviceva 46, Novi Sad, Serbia, 21000"
+    },
+    "ticketIDs": [],
+    "ticketsCount": {
+      "REGULAR": 0,
+      "FAN_PIT": 0,
+      "VIP": 0
+    },
+    "deleted": false,
+    "posterPath": "bajaga.jpg"
+  }
+}

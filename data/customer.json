@@ -1,0 +1,107 @@
+{
+  "pera": {
+    "ticketIDs": [
+      0,
+      1,
+      2,
+      3,
+      106,
+      107,
+      108
+    ],
+    "customerType": {
+      "name": "REGULAR",
+      "discount": 0.0,
+      "requiredPoints": 1162.18
+    },
+    "points": 337.82,
+    "cart": {
+      "id": 0,
+      "username": "pera",
+      "items": []
+    },
+    "suspicious": false,
+    "deleted": false,
+    "blocked": false,
+    "username": "pera",
+    "password": "peric",
+    "firstName": "asdasd",
+    "lastName": "asd",
+    "gender": "MALE",
+    "birthDate": 567995034322
+  },
+  "Nedeljko99": {
+    "ticketIDs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "customerType": {
+      "name": "REGULAR",
+      "discount": 0.0,
+      "requiredPoints": 1367.0
+    },
+    "points": 133.0,
+    "suspicious": true,
+    "deleted": false,
+    "blocked": false,
+    "username": "Nedeljko99",
+    "password": "nedeljko",
+    "firstName": "Nedeljko",
+    "lastName": "Vignjevic",
+    "gender": "MALE",
+    "birthDate": 1612327560000
+  },
+  "test": {
+    "ticketIDs": [],
+    "customerType": {
+      "name": "REGULAR",
+      "discount": 0.0,
+      "requiredPoints": 3000.0
+    },
+    "points": 0.0,
+    "suspicious": false,
+    "deleted": false,
+    "blocked": false,
+    "username": "test",
+    "password": "test",
+    "firstName": "Test",
+    "lastName": "Test",
+    "gender": "MALE",
+    "birthDate": 1430896620000
+  },
+  "marko": {
+    "ticketIDs": [],
+    "customerType": {
+      "name": "REGULAR",
+      "discount": 0.0,
+      "requiredPoints": 1500.0
+    },
+    "points": 0.0,
+    "suspicious": false,
+    "deleted": false,
+    "blocked": false,
+    "username": "marko",
+    "password": "markovic",
+    "firstName": "Marko",
+    "lastName": "Markovic",
+    "gender": "MALE",
+    "birthDate": 567995034322
+  }
+}

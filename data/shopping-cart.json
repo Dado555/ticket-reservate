@@ -1,0 +1,67 @@
+{
+  "0": {
+    "id": 0,
+    "username": "Nedeljko99",
+    "items": [
+      {
+        "tickets": [
+          {
+            "id": 22,
+            "manifestationID": 0,
+            "price": 130.0,
+            "customerUsername": "Nedeljko99",
+            "status": "RESERVED",
+            "type": "FAN_PIT",
+            "deleted": false
+          },
+          {
+            "id": 23,
+            "manifestationID": 0,
+            "price": 130.0,
+            "customerUsername": "Nedeljko99",
+            "status": "RESERVED",
+            "type": "FAN_PIT",
+            "deleted": false
+          },
+          {
+            "id": 24,
+            "manifestationID": 0,
+            "price": 130.0,
+            "customerUsername": "Nedeljko99",
+            "status": "RESERVED",
+            "type": "FAN_PIT",
+            "deleted": false
+          },
+          {
+            "id": 25,
+            "manifestationID": 0,
+            "price": 130.0,
+            "customerUsername": "Nedeljko99",
+            "status": "RESERVED",
+            "type": "FAN_PIT",
+            "deleted": false
+          },
+          {
+            "id": 26,
+            "manifestationID": 0,
+            "price": 130.0,
+            "customerUsername": "Nedeljko99",
+            "status": "RESERVED",
+            "type": "FAN_PIT",
+            "deleted": false
+          },
+          {
+            "id": 27,
+            "manifestationID": 0,
+            "price": 130.0,
+            "customerUsername": "Nedeljko99",
+            "status": "RESERVED",
+            "type": "FAN_PIT",
+            "deleted": false
+          }
+        ],
+        "price": 780.0
+      }
+    ]
+  }
+}

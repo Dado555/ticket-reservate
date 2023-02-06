@@ -1,0 +1,184 @@
+.containerManifestation {
+    margin-top: 80px;
+}
+
+.containerManifestationv .col-2 {
+    padding: 20px 20px;
+}
+
+.containerManifestation .col-2 img {
+    padding-left: 20px;
+    padding-right: 20px;
+	max-width: 400px;
+    max-height: 400px;
+}
+
+.containerManifestation h4 {
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.containerManifestation input {
+    width: 50px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-right: 10px;
+    border: 1px solid #ff523b;
+}
+
+.containerManifestation input:focus {
+    outline: none;
+}
+
+.containerManifestation .row-2 {
+    justify-content: space-between;
+    margin: 100px auto 50px;
+}
+
+.containerManifestation .dateBox .datetime {
+  background: #888888;
+  float: left;
+  font-size: 0.875rem !important;
+  padding: 0.125rem 0.5rem;
+}
+
+#ulijevo {
+    margin-top: 15px;
+}
+
+#udesno {
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 45px;
+}
+
+#udesno p {
+    margin-left: 7px;
+} 
+
+.containerManifestation .map {
+	height: 400px;
+	width: 100%;
+	/*pointer-events: none;*/
+}
+
+.containerComment {
+	width: 100%;
+    margin: 5em, auto;
+}
+
+.containerComment ul, li {
+    list-style: none;
+}
+
+.containerComment em {
+    font-size: 0.75em;
+}
+
+.containerComment .simple-nested li {
+    margin-left: 3em;
+}
+
+.containerComment .comment {
+    background: white;
+    border: 1px solid #999;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.containerComment .simple-nested li ul {
+    border-left: 1px solid #999;
+    position: relative;
+}
+
+.containerComment .simple-nested li ul::before {
+    content: '';
+    border-bottom: 1px solid #999;
+    position: absolute;
+    width: 2em;
+    top: 2em;
+}
+
+.leave-comment
+{
+    width: 100%;
+    border: 2px solid #333;
+    padding: 15px 10px;
+}
+.leave-comment h2
+{
+    text-align: center;
+    margin-bottom: 15px
+}
+.leave-comment textarea
+{
+    height: 30px;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #aaa;
+    background-color: transparent;
+    margin-bottom: 10px;
+    resize: none;
+    outline: none;
+    transition: .5s;
+    font-size: 17px;
+}
+
+.leave-comment input[type="submit"], .leave-comment button
+{
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+}
+.leave-comment input[type="submit"]
+{
+    color: #fff;
+    background-color: #273c75;
+    width: inherit;
+}
+.leave-comment button
+{
+    color: #333;
+    background-color: transparent
+}
+.leave-comment .btn
+{
+    display: none
+}
+
+.leave-comment .rate {
+    float: left;
+    height: 46px;
+    padding: 0 10px;
+}
+
+.leave-comment .rate:not(:checked) > input {
+    position:absolute;
+    left:-9999px;
+}
+
+.leave-comment .rate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    color:#ccc;
+}
+
+.leave-comment .rate:not(:checked) > label:before {
+    content: '★ ';
+}
+
+.containerComment .comment {
+	cursor: pointer;
+	height: 50px;
+	overflow: hidden;
+}
